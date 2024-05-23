@@ -1,0 +1,39 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/egg.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE000"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:block/white_stained_glass.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["\uE100"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:block/glass.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["\uE101"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:block/blue_stained_glass.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["\uE102"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:block/red_stained_glass.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["\uE103"]
+        }
+    ]
+}
