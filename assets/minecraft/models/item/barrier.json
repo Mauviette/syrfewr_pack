@@ -7,6 +7,10 @@
         {"predicate": {"custom_model_data": 1}, "model": "chicken_haven:ui/egg_compass/menu"},
         {"predicate": {"custom_model_data": 2}, "model": "chicken_haven:ui/egg_compass/menu_bank"},
         {"predicate": {"custom_model_data": 3}, "model": "chicken_haven:empty"},
+
+        {"predicate": {"custom_model_data": 101}, "model": "syrfewr:lobby/ui/inventory/main_menu"},
+        {"predicate": {"custom_model_data": 102}, "model": "syrfewr:lobby/ui/inventory/my_cosmetics"},
+
         {"predicate": {"custom_model_data": 501}, "model": "glasswar:ui/game/menu"}
     ]
 }

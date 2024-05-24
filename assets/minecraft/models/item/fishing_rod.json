@@ -1,0 +1,16 @@
+{
+    "parent": "item/handheld_rod",
+    "textures": {
+        "layer0": "item/fishing_rod"
+    },
+    "overrides": [
+        { "predicate": { "cast": 1 }, "model": "item/fishing_rod_cast" },
+        { "predicate" : {"custom_model_data": 1}, "model" : "syrfewr:skins/fishing_rods/iron" },
+		{ "predicate": { "custom_model_data": 1, "cast" : 1}, "model": "syrfewr:skins/fishing_rods/iron_cast" },
+        { "predicate" : {"custom_model_data": 2}, "model" : "syrfewr:skins/fishing_rods/golden" },
+		{ "predicate": { "custom_model_data": 2, "cast" : 1}, "model": "syrfewr:skins/fishing_rods/golden_cast" },
+        { "predicate" : {"custom_model_data": 3}, "model" : "syrfewr:skins/fishing_rods/diamond" },
+		{ "predicate": { "custom_model_data": 3, "cast" : 1}, "model": "syrfewr:skins/fishing_rods/diamond_cast" }
+
+    ]
+}

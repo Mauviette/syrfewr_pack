@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld_rod",
+  "textures": {
+    "layer0": "minecraft:custom/skins/fishing_rods/iron_cast"
+  }
+}
