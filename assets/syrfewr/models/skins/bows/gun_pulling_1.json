@@ -1,0 +1,6 @@
+{
+  "parent": "syrfewr:skins/bows/gun",
+  "textures": {
+    "layer0": "minecraft:custom/skins/bows/gun_pulling_1"
+  }
+}
