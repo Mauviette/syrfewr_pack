@@ -60,7 +60,17 @@
         { "predicate" : { "custom_model_data" : 3}, "model" : "syrfewr:skins/bows/gun" },
         { "predicate" : { "custom_model_data" : 3, "pulling" : 1}, "model" : "syrfewr:skins/bows/gun_pulling_0" },
         { "predicate" : { "custom_model_data" : 3, "pulling" : 1, "pull" : 0.65}, "model" : "syrfewr:skins/bows/gun_pulling_1" },
-        { "predicate" : { "custom_model_data" : 3, "pulling" : 1, "pull" : 0.9}, "model" : "syrfewr:skins/bows/gun_pulling_2" }
+        { "predicate" : { "custom_model_data" : 3, "pulling" : 1, "pull" : 0.9}, "model" : "syrfewr:skins/bows/gun_pulling_2" },
+
+        
+        { "predicate" : { "custom_model_data" : 4}, "model" : "syrfewr:skins/bows/angel" },
+        { "predicate" : { "custom_model_data" : 4, "pulling" : 1}, "model" : "syrfewr:skins/bows/angel_pulling_0" },
+        { "predicate" : { "custom_model_data" : 4, "pulling" : 1, "pull" : 0.65}, "model" : "syrfewr:skins/bows/angel_pulling_1" },
+        { "predicate" : { "custom_model_data" : 4, "pulling" : 1, "pull" : 0.9}, "model" : "syrfewr:skins/bows/angel_pulling_2" },
     
+        { "predicate" : { "custom_model_data" : 5}, "model" : "syrfewr:skins/bows/windbow" },
+        { "predicate" : { "custom_model_data" : 5, "pulling" : 1}, "model" : "syrfewr:skins/bows/windbow_pulling_0" },
+        { "predicate" : { "custom_model_data" : 5, "pulling" : 1, "pull" : 0.65}, "model" : "syrfewr:skins/bows/windbow_pulling_1" },
+        { "predicate" : { "custom_model_data" : 5, "pulling" : 1, "pull" : 0.9}, "model" : "syrfewr:skins/bows/windbow_pulling_2" }
     ]
 }

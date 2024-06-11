@@ -10,6 +10,7 @@
 
         {"predicate": {"custom_model_data": 101}, "model": "syrfewr:lobby/ui/inventory/main_menu"},
         {"predicate": {"custom_model_data": 102}, "model": "syrfewr:lobby/ui/inventory/my_cosmetics"},
+        {"predicate": {"custom_model_data": 103}, "model": "syrfewr:lobby/ui/inventory/gamemodes"},
 
         {"predicate": {"custom_model_data": 501}, "model": "glasswar:ui/game/menu"}
     ]

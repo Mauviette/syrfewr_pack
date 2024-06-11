@@ -1,0 +1,6 @@
+{
+  "parent": "syrfewr:skins/bows/angel",
+  "textures": {
+    "layer0": "minecraft:custom/skins/bows/angel_bow_pulling_0"
+  }
+}

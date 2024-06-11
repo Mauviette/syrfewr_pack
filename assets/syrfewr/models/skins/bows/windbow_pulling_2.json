@@ -1,0 +1,6 @@
+{
+  "parent": "syrfewr:skins/bows/windbow",
+  "textures": {
+    "layer0": "minecraft:custom/skins/bows/wind_caller_bow_pulling_2"
+  }
+}

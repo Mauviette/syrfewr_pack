@@ -6,7 +6,10 @@
 	"overrides": [
         {"predicate": {"custom_model_data": 1}, "model": "syrfewr:item/fishing/trash/can"},
         {"predicate": {"custom_model_data": 2}, "model": "syrfewr:item/fishing/trash/algae"},
+
         {"predicate": {"custom_model_data": 3}, "model": "syrfewr:item/fishing/trash/dead_fish"},
+        {"predicate": {"custom_model_data": 4}, "model": "syrfewr:item/fishing/trash/message_in_a_bottle"},
+
 
         {"predicate": {"custom_model_data": 1000}, "model": "syrfewr:item/fishing/fishes/perch"},
         {"predicate": {"custom_model_data": 1001}, "model": "syrfewr:item/fishing/fishes/minnow"},
@@ -14,9 +17,17 @@
         {"predicate": {"custom_model_data": 1003}, "model": "syrfewr:item/fishing/fishes/boulti"},
         {"predicate": {"custom_model_data": 1004}, "model": "syrfewr:item/fishing/fishes/capitaine"},
         {"predicate": {"custom_model_data": 1005}, "model": "syrfewr:item/fishing/fishes/pacific_halibut"},
+
         {"predicate": {"custom_model_data": 1006}, "model": "syrfewr:item/fishing/fishes/arrau_turtle"},
+        {"predicate": {"custom_model_data": 1007}, "model": "syrfewr:item/fishing/fishes/tuna"},
+        {"predicate": {"custom_model_data": 1008}, "model": "syrfewr:item/fishing/fishes/bluegill"},
+        {"predicate": {"custom_model_data": 1009}, "model": "syrfewr:item/fishing/fishes/atlantic_herring"},
+        {"predicate": {"custom_model_data": 1010}, "model": "syrfewr:item/fishing/fishes/brown_trout"},
+        {"predicate": {"custom_model_data": 1011}, "model": "syrfewr:item/fishing/fishes/cod"},
+
 
         {"predicate": {"custom_model_data": 2000}, "model": "syrfewr:item/fishing/treasures/box"},
+
         {"predicate": {"custom_model_data": 2001}, "model": "syrfewr:item/fishing/treasures/golden_box"}
     ]
 }
