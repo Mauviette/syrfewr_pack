@@ -1,0 +1,15 @@
+{
+    "macron_explosion": {
+      "sounds": [
+        "syrfewr:sfx/explosion_macron"]
+      },
+      
+    "music_spleef": {
+      "sounds": [
+        "syrfewr:music/double_time"]
+      },
+      "music_end_spleef": {
+        "sounds": [
+          "syrfewr:music/double_time_end"]
+        }
+}
