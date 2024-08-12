@@ -11,5 +11,15 @@
       "music_end_spleef": {
         "sounds": [
           "syrfewr:music/double_time_end"]
-        }
+        },
+        
+      
+        "music_deacoudre": {
+          "sounds": [
+            "syrfewr:music/chop_chop"]
+          },
+          "music_end_deacoudre": {
+            "sounds": [
+              "syrfewr:music/chop_chop_end"]
+            }
 }
