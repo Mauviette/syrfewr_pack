@@ -21,5 +21,25 @@
           "music_end_deacoudre": {
             "sounds": [
               "syrfewr:music/chop_chop_end"]
+            },
+
+
+            "music_tntrun": {
+          "sounds": [
+            "syrfewr:music/time_is_of_the_essence"]
+          },
+          "music_end_tntrun": {
+            "sounds": [
+              "syrfewr:music/time_is_of_the_essence_end"]
+            },
+
+
+            "music_colorswap": {
+          "sounds": [
+            "syrfewr:music/swift_descent"]
+          },
+          "music_end_colorswap": {
+            "sounds": [
+              "syrfewr:music/swift_descent_end"]
             }
 }
