@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:block/cube_all",
+    "textures": {
+      "all": "custom/items/glasswar/lucky_block/unlucky"
+    }
+  }

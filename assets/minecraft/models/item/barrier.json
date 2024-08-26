@@ -11,6 +11,9 @@
         {"predicate": {"custom_model_data": 101}, "model": "syrfewr:lobby/ui/inventory/main_menu"},
         {"predicate": {"custom_model_data": 102}, "model": "syrfewr:lobby/ui/inventory/my_cosmetics"},
         {"predicate": {"custom_model_data": 103}, "model": "syrfewr:lobby/ui/inventory/gamemodes"},
+        {"predicate": {"custom_model_data": 104}, "model": "syrfewr:lobby/ui/inventory/my_cosmetics_info"},
+        {"predicate": {"custom_model_data": 105}, "model": "syrfewr:lobby/ui/inventory/more"},
+        {"predicate": {"custom_model_data": 106}, "model": "syrfewr:lobby/ui/inventory/lootboxes"},
 
         {"predicate": {"custom_model_data": 501}, "model": "glasswar:ui/game/menu"}
     ]

@@ -9,6 +9,16 @@
         },
         {
             "type": "bitmap",
+            "file": "minecraft:custom/skins/display/white_wire_coat_hanger.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE001"]
+        },
+
+
+
+        {
+            "type": "bitmap",
             "file": "minecraft:block/white_stained_glass.png",
             "ascent": 7,
             "height": 7,
