@@ -14,6 +14,48 @@
             "height": 8,
             "chars": ["\uE001"]
         },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/skins/display/common_lootbox.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE002"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/skins/display/unusual_lootbox.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE003"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/skins/display/rare_lootbox.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE004"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/skins/display/epic_lootbox.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE005"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/skins/display/legendary_lootbox.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE006"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/skins/display/mythical_lootbox.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE007"]
+        },
 
 
 
