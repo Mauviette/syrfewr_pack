@@ -71,6 +71,8 @@
         { "predicate" : { "custom_model_data" : 5}, "model" : "syrfewr:skins/bows/windbow" },
         { "predicate" : { "custom_model_data" : 5, "pulling" : 1}, "model" : "syrfewr:skins/bows/windbow_pulling_0" },
         { "predicate" : { "custom_model_data" : 5, "pulling" : 1, "pull" : 0.65}, "model" : "syrfewr:skins/bows/windbow_pulling_1" },
-        { "predicate" : { "custom_model_data" : 5, "pulling" : 1, "pull" : 0.9}, "model" : "syrfewr:skins/bows/windbow_pulling_2" }
+        { "predicate" : { "custom_model_data" : 5, "pulling" : 1, "pull" : 0.9}, "model" : "syrfewr:skins/bows/windbow_pulling_2" },
+
+        { "predicate" : { "custom_model_data" : 6}, "model" : "syrfewr:skins/bows/scarlet" }
     ]
 }
