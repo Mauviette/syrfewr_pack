@@ -21,6 +21,7 @@
         {"predicate": {"custom_model_data": 105}, "model": "syrfewr:lobby/ui/inventory/more"},
         {"predicate": {"custom_model_data": 106}, "model": "syrfewr:lobby/ui/inventory/trouvailles"},
         {"predicate": {"custom_model_data": 107}, "model": "syrfewr:lobby/ui/inventory/lootboxes"},
+        {"predicate": {"custom_model_data": 108}, "model": "syrfewr:lobby/ui/inventory/my_quests"},
 
         {"predicate": {"custom_model_data": 501}, "model": "glasswar:ui/game/menu"}
     ]
