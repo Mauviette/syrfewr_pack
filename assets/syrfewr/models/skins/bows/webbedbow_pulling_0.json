@@ -1,0 +1,6 @@
+{
+  "parent": "syrfewr:skins/bows/webbedbow",
+  "textures": {
+    "layer0": "minecraft:custom/skins/bows/webbedbow_pulling_0"
+  }
+}

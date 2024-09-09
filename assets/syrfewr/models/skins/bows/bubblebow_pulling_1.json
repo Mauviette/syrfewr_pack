@@ -1,0 +1,6 @@
+{
+  "parent": "syrfewr:skins/bows/bubblebow",
+  "textures": {
+    "layer0": "minecraft:custom/skins/bows/bubblebow_pulling_1"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "syrfewr:skins/bows/floriculture",
+  "textures": {
+    "layer0": "minecraft:custom/skins/bows/floriculture_pulling_1"
+  }
+}

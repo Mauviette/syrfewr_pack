@@ -1,0 +1,6 @@
+{
+  "parent": "syrfewr:skins/bows/snowblaster",
+  "textures": {
+    "layer0": "minecraft:custom/skins/bows/snowblaster_pulling_0"
+  }
+}
