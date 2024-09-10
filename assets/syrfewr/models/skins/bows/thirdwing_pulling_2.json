@@ -1,6 +1,6 @@
 {
   "parent": "syrfewr:skins/bows/thirdwing",
   "textures": {
-    "layer0": "minecraft:custom/skins/bows/thirdwing_pulling_2"
+    "layer0": "minecraft:custom/skins/bows/aerowing_pulling_2"
   }
 }

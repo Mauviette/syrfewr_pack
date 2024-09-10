@@ -1,6 +1,6 @@
 {
   "parent": "syrfewr:skins/bows/lavenderlight",
   "textures": {
-    "layer0": "minecraft:custom/skins/bows/lavenderlight_pulling_0"
+    "layer0": "minecraft:custom/skins/bows/lavender_light_pulling_0"
   }
 }
