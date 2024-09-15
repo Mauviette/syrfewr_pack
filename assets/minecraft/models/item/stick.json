@@ -8,6 +8,8 @@
 		{ "predicate": { "custom_model_data": 2}, "model": "syrfewr:skins/hats/douglas" },
 		{ "predicate": { "custom_model_data": 3}, "model": "syrfewr:skins/hats/douglas_epique" },
 		{ "predicate": { "custom_model_data": 4}, "model": "syrfewr:skins/hats/douglas_rare" },
-		{ "predicate": { "custom_model_data": 5}, "model": "syrfewr:skins/hats/douglas_oeuf" }
+		{ "predicate": { "custom_model_data": 5}, "model": "syrfewr:skins/hats/douglas_oeuf" },
+
+		{ "predicate": { "custom_model_data": 100}, "model": "syrfewr:bug/bug_nets/basic_bug_net" }
   ]
   }

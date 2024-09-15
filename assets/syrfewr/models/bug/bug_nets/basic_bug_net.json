@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "minecraft:custom/bug/bug_nets/basic_bug_net"
+  }
+}
