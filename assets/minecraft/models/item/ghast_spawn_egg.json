@@ -4,6 +4,7 @@
         {"predicate": {"custom_model_data": 1}, "model": "glasswar:item/lucky_block/normal"},
         {"predicate": {"custom_model_data": 2}, "model": "glasswar:item/lucky_block/lucky"},
         {"predicate": {"custom_model_data": 3}, "model": "glasswar:item/lucky_block/unlucky"},
-        {"predicate": {"custom_model_data": 4}, "model": "glasswar:item/lucky_block/loot"}
+        {"predicate": {"custom_model_data": 4}, "model": "glasswar:item/lucky_block/loot"},
+        {"predicate": {"custom_model_data": 5}, "model": "glasswar:item/item_generator"}
     ]
 }
