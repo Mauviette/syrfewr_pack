@@ -13,6 +13,10 @@
         {"predicate": {"custom_model_data": 7}, "model": "syrfewr:lobby/ui/inventory/purple_question"},
         {"predicate": {"custom_model_data": 8}, "model": "syrfewr:lobby/ui/inventory/yellow_question"},
         {"predicate": {"custom_model_data": 9}, "model": "syrfewr:lobby/ui/inventory/red_question"},
+        {"predicate": {"custom_model_data": 10}, "model": "syrfewr:lobby/ui/inventory/time/night"},
+        {"predicate": {"custom_model_data": 11}, "model": "syrfewr:lobby/ui/inventory/time/morning"},
+        {"predicate": {"custom_model_data": 12}, "model": "syrfewr:lobby/ui/inventory/time/afternoon"},
+        {"predicate": {"custom_model_data": 13}, "model": "syrfewr:lobby/ui/inventory/time/evening"},
 
         {"predicate": {"custom_model_data": 101}, "model": "syrfewr:lobby/ui/inventory/main_menu"},
         {"predicate": {"custom_model_data": 102}, "model": "syrfewr:lobby/ui/inventory/my_cosmetics"},
@@ -23,6 +27,7 @@
         {"predicate": {"custom_model_data": 107}, "model": "syrfewr:lobby/ui/inventory/lootboxes"},
         {"predicate": {"custom_model_data": 108}, "model": "syrfewr:lobby/ui/inventory/my_quests"},
         {"predicate": {"custom_model_data": 109}, "model": "syrfewr:lobby/ui/inventory/more2"},
+        {"predicate": {"custom_model_data": 110}, "model": "syrfewr:lobby/ui/inventory/more3"},
 
         {"predicate": {"custom_model_data": 501}, "model": "glasswar:ui/game/menu"}
     ]

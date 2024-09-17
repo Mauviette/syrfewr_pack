@@ -25,3 +25,8 @@ TEXT_EFFECT(255, 1, 255) {
 TEXT_EFFECT(255, 2, 255) {
 	applyGradient(rgb(204, 229, 255), rgb(153, 255, 255), 1.0);
 }
+
+
+TEXT_EFFECT(255, 3, 255) {
+	applyGradient(rgb(248, 120, 0), rgb(255, 165, 0), 1.0);
+}
