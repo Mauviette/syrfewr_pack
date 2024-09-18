@@ -56,6 +56,13 @@
             "height": 8,
             "chars": ["\uE007"]
         },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/skins/display/fish_box.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE008"]
+        },
 
 
 

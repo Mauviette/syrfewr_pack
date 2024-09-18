@@ -1,0 +1,6 @@
+{
+  "parent": "syrfewr:skins/bows/scarlet",
+  "textures": {
+    "layer0": "minecraft:custom/skins/bows/scarlet_pulling_2"
+  }
+}
