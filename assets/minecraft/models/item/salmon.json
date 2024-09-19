@@ -17,7 +17,6 @@
         {"predicate": {"custom_model_data": 1003}, "model": "syrfewr:item/fishing/fishes/boulti"},
         {"predicate": {"custom_model_data": 1004}, "model": "syrfewr:item/fishing/fishes/capitaine"},
         {"predicate": {"custom_model_data": 1005}, "model": "syrfewr:item/fishing/fishes/pacific_halibut"},
-
         {"predicate": {"custom_model_data": 1006}, "model": "syrfewr:item/fishing/fishes/arrau_turtle"},
         {"predicate": {"custom_model_data": 1007}, "model": "syrfewr:item/fishing/fishes/tuna"},
         {"predicate": {"custom_model_data": 1008}, "model": "syrfewr:item/fishing/fishes/bluegill"},
