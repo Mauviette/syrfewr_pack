@@ -10,7 +10,11 @@
         { "predicate" : {"custom_model_data": 2}, "model" : "syrfewr:fish/fishing_rods/golden" },
 		{ "predicate": { "custom_model_data": 2, "cast" : 1}, "model": "syrfewr:fish/fishing_rods/golden_cast" },
         { "predicate" : {"custom_model_data": 3}, "model" : "syrfewr:fish/fishing_rods/diamond" },
-		{ "predicate": { "custom_model_data": 3, "cast" : 1}, "model": "syrfewr:fish/fishing_rods/diamond_cast" }
+		{ "predicate": { "custom_model_data": 3, "cast" : 1}, "model": "syrfewr:fish/fishing_rods/diamond_cast" },
+        { "predicate" : {"custom_model_data": 4}, "model" : "syrfewr:fish/fishing_rods/twisted" },
+		{ "predicate": { "custom_model_data": 4, "cast" : 1}, "model": "syrfewr:fish/fishing_rods/twisted_cast" },
+        { "predicate" : {"custom_model_data": 5}, "model" : "syrfewr:fish/fishing_rods/hardened" },
+		{ "predicate": { "custom_model_data": 5, "cast" : 1}, "model": "syrfewr:fish/fishing_rods/hardened_cast" }
 
     ]
 }
