@@ -39,6 +39,7 @@
         {"predicate": {"custom_model_data": 1024}, "model": "syrfewr:item/fishing/fishes/gar"},
         {"predicate": {"custom_model_data": 1025}, "model": "syrfewr:item/fishing/fishes/piranha"},
         {"predicate": {"custom_model_data": 1026}, "model": "syrfewr:item/fishing/fishes/blackfish"},
+        {"predicate": {"custom_model_data": 1027}, "model": "syrfewr:item/fishing/fishes/rainbow_trout"},
 
 
         {"predicate": {"custom_model_data": 2000}, "model": "syrfewr:item/fishing/treasures/box"},
