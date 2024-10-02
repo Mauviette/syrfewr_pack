@@ -1,0 +1,18 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/cookie"
+  },
+	"overrides": [
+		{ "predicate": { "custom_model_data": 1}, "model": "syrfewr:skins/hats/silver_cookie" },
+		{ "predicate": { "custom_model_data": 2}, "model": "syrfewr:skins/hats/golden_cookie" },
+		{ "predicate": { "custom_model_data": 3}, "model": "syrfewr:skins/hats/lapis_cookie" },
+		{ "predicate": { "custom_model_data": 4}, "model": "syrfewr:skins/hats/diamond_cookie" },
+		{ "predicate": { "custom_model_data": 5}, "model": "syrfewr:skins/hats/emerald_cookie" },
+		{ "predicate": { "custom_model_data": 6}, "model": "syrfewr:skins/hats/rubis_cookie" },
+		{ "predicate": { "custom_model_data": 7}, "model": "syrfewr:skins/hats/royal_cookie" },
+		{ "predicate": { "custom_model_data": 8}, "model": "syrfewr:skins/hats/stellar_cookie" },
+		{ "predicate": { "custom_model_data": 9}, "model": "syrfewr:skins/hats/god_cookie" },
+		{ "predicate": { "custom_model_data": 10}, "model": "syrfewr:skins/hats/ultimate_cookie" }
+  ]
+}
