@@ -13,4 +13,4 @@
         "conditional=true,facing=west":  { "model": "block/minecart/hopper" },
         "conditional=true,facing=east":  { "model": "block/command_block_conditional", "y": 90 }
     }
-  }
+}
