@@ -41,5 +41,15 @@
           "music_end_colorswap": {
             "sounds": [
               "syrfewr:music/swift_descent_end"]
+            },
+
+
+            "music_anvil_drop": {
+          "sounds": [
+            "syrfewr:music/agile_accelerando"]
+          },
+          "music_end_anvil_drop": {
+            "sounds": [
+              "syrfewr:music/agile_accelerando_end"]
             }
 }
