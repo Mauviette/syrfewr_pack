@@ -180,6 +180,13 @@
             "height": 36,
             "chars": ["\uE309"]
         },
+        {
+            "type": "bitmap",
+            "file": "minecraft:block/crafter_top.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["\uE400"]
+        },
 
 
 
