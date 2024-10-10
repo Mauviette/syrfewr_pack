@@ -190,16 +190,23 @@
         {
             "type": "bitmap",
             "file": "minecraft:item/charcoal.png",
-            "ascent": 7,
-            "height": 7,
+            "ascent": 8,
+            "height": 8,
             "chars": ["\uE401"]
         },
         {
             "type": "bitmap",
             "file": "minecraft:item/raw_copper.png",
-            "ascent": 7,
-            "height": 7,
+            "ascent": 8,
+            "height": 8,
             "chars": ["\uE402"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/raw_iron.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE403"]
         },
 
 
