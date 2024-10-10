@@ -187,6 +187,20 @@
             "height": 7,
             "chars": ["\uE400"]
         },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/charcoal.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["\uE401"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/raw_copper.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["\uE402"]
+        },
 
 
 

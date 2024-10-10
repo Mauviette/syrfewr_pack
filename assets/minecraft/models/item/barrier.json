@@ -31,6 +31,9 @@
 
         {"predicate": {"custom_model_data": 201}, "model": "syrfewr:lobby/ui/modes/main"},
 
+        {"predicate": {"custom_model_data": 401}, "model": "syrfewr:ui/towercraft/tower"},
+        {"predicate": {"custom_model_data": 402}, "model": "syrfewr:ui/towercraft/tower_upgrade"},
+
         {"predicate": {"custom_model_data": 501}, "model": "glasswar:ui/game/menu"}
     ]
 }

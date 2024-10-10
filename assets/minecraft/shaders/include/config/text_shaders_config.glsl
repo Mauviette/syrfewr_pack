@@ -18,6 +18,10 @@ TEXT_EFFECT(255, 16, 255) {
 	applyRemoveShadow();
 }
 
+TEXT_EFFECT(255, 5, 255) {
+	applyGradient(rgb(0, 200, 0), rgb(0, 255, 0), 1.0);
+}
+
 TEXT_EFFECT(255, 1, 255) {
 	applyGradient(rgb(248, 20, 20), rgb(248, 100, 10), 1.0);
 }
