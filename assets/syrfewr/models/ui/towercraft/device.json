@@ -1,0 +1,6 @@
+{
+  "parent": "chicken_haven:ui/root",
+  "textures": {
+    "texture": "custom/ui/towercraft/device"
+  }
+}

@@ -33,6 +33,8 @@
 
         {"predicate": {"custom_model_data": 401}, "model": "syrfewr:ui/towercraft/tower"},
         {"predicate": {"custom_model_data": 402}, "model": "syrfewr:ui/towercraft/tower_upgrade"},
+        {"predicate": {"custom_model_data": 403}, "model": "syrfewr:ui/towercraft/tower_device"},
+        {"predicate": {"custom_model_data": 404}, "model": "syrfewr:ui/towercraft/tower_no_upgrades"},
 
         {"predicate": {"custom_model_data": 501}, "model": "glasswar:ui/game/menu"}
     ]
