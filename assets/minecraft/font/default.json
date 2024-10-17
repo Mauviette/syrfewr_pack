@@ -208,6 +208,13 @@
             "height": 8,
             "chars": ["\uE403"]
         },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/raw_gold.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE404"]
+        },
 
 
 
