@@ -1,6 +1,0 @@
-{
-	"parent": "minecraft:block/dispenser",
-	"overrides": [
-		{ "predicate": { "custom_model_data": 1}, "model": "minecraft:block/dispenser_vertical" }
-  ]
-}

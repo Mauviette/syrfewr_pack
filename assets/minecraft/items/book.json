@@ -1,0 +1,19 @@
+{
+  "model": {
+      "type": "select",
+      "property": "custom_model_data",
+      "fallback": {
+          "type": "model",
+          "model": "item/book"
+      },
+      "cases": [
+          {
+              "when": "good_book",
+              "model": {
+                  "type": "model",
+                  "model": "syrfewr:item/lobby/good_book"
+              }
+          }
+      ]
+    }
+  }

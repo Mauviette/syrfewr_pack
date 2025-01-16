@@ -1,0 +1,255 @@
+{
+    "model": {
+        "type": "select",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "block/barrier"
+        },
+        "cases": [
+            {
+                "when": "menu_egg_compass",
+                "model": {
+                    "type": "model",
+                    "model": "chicken_haven:ui/egg_compass/menu"
+                }
+            },
+            {
+                "when": "menu_egg_compass_bank",
+                "model": {
+                    "type": "model",
+                    "model": "chicken_haven:ui/egg_compass/menu_bank"
+                }
+            },
+            {
+                "when": "empty",
+                "model": {
+                    "type": "model",
+                    "model": "chicken_haven:empty"
+                }
+            },
+            {
+                "when": "gray_question",
+                "model": {
+                    "type": "model",
+                    "model": "syrfewr:lobby/ui/inventory/gray_question"
+                }
+            },
+            {
+                "when": "green_question",
+                "model": {
+                    "type": "model",
+                    "model": "syrfewr:lobby/ui/inventory/green_question"
+                }
+            },
+            {
+                "when": "blue_question",
+                "model": {
+                    "type": "model",
+                    "model": "syrfewr:lobby/ui/inventory/blue_question"
+                }
+            },
+            {
+                "when": "purple_question",
+                "model": {
+                    "type": "model",
+                    "model": "syrfewr:lobby/ui/inventory/purple_question"
+                }
+            },
+            {
+                "when": "yellow_question",
+                "model": {
+                    "type": "model",
+                    "model": "syrfewr:lobby/ui/inventory/yellow_question"
+                }
+            },
+            {
+                "when": "red_question",
+                "model": {
+                    "type": "model",
+                    "model": "syrfewr:lobby/ui/inventory/red_question"
+                }
+            },
+            {
+                "when": "time_night",
+                "model": {
+                    "type": "model",
+                    "model": "syrfewr:lobby/ui/inventory/time/night"
+                }
+            },
+            {
+                "when": "time_morning",
+                "model": {
+                    "type": "model",
+                    "model": "syrfewr:lobby/ui/inventory/time/morning"
+                }
+            },
+            {
+                "when": "time_afternoon",
+                "model": {
+                    "type": "model",
+                    "model": "syrfewr:lobby/ui/inventory/time/afternoon"
+                }
+            },
+            {
+                "when": "time_evening",
+                "model": {
+                    "type": "model",
+                    "model": "syrfewr:lobby/ui/inventory/time/evening"
+                }
+            },
+            {
+                "when": "main_menu",
+                "model": {
+                    "type": "model",
+                    "model": "syrfewr:lobby/ui/inventory/main_menu"
+                }
+            },
+            {
+                "when": "my_cosmetics",
+                "model": {
+                    "type": "model",
+                    "model": "syrfewr:lobby/ui/inventory/my_cosmetics"
+                }
+            },
+            {
+                "when": "gamemodes",
+                "model": {
+                    "type": "model",
+                    "model": "syrfewr:lobby/ui/inventory/gamemodes"
+                }
+            },
+            {
+                "when": "my_cosmetics_info",
+                "model": {
+                    "type": "model",
+                    "model": "syrfewr:lobby/ui/inventory/my_cosmetics_info"
+                }
+            },
+            {
+                "when": "more",
+                "model": {
+                    "type": "model",
+                    "model": "syrfewr:lobby/ui/inventory/more"
+                }
+            },
+            {
+                "when": "trouvailles",
+                "model": {
+                    "type": "model",
+                    "model": "syrfewr:lobby/ui/inventory/trouvailles"
+                }
+            },
+            {
+                "when": "lootboxes",
+                "model": {
+                    "type": "model",
+                    "model": "syrfewr:lobby/ui/inventory/lootboxes"
+                }
+            },
+            {
+                "when": "my_quests",
+                "model": {
+                    "type": "model",
+                    "model": "syrfewr:lobby/ui/inventory/my_quests"
+                }
+            },
+            {
+                "when": "more2",
+                "model": {
+                    "type": "model",
+                    "model": "syrfewr:lobby/ui/inventory/more2"
+                }
+            },
+            {
+                "when": "more3",
+                "model": {
+                    "type": "model",
+                    "model": "syrfewr:lobby/ui/inventory/more3"
+                }
+            },
+            {
+                "when": "modes_main",
+                "model": {
+                    "type": "model",
+                    "model": "syrfewr:lobby/ui/modes/main"
+                }
+            },
+            {
+                "when": "tower",
+                "model": {
+                    "type": "model",
+                    "model": "syrfewr:ui/towercraft/tower"
+                }
+            },
+            {
+                "when": "tower_upgrade",
+                "model": {
+                    "type": "model",
+                    "model": "syrfewr:ui/towercraft/tower_upgrade"
+                }
+            },
+            {
+                "when": "device",
+                "model": {
+                    "type": "model",
+                    "model": "syrfewr:ui/towercraft/device"
+                }
+            },
+            {
+                "when": "no_upgrades",
+                "model": {
+                    "type": "model",
+                    "model": "syrfewr:ui/towercraft/no_upgrades"
+                }
+            },
+            {
+                "when": "game_menu",
+                "model": {
+                    "type": "model",
+                    "model": "glasswar:ui/game/menu"
+                }
+            }
+        ]
+    }
+
+
+    "elements": :
+	 "overrides": [
+        {"predicate": {"custom_model_data": 1}, "model": "chicken_haven:ui/egg_compass/menu"},
+        {"predicate": {"custom_model_data": 2}, "model": "chicken_haven:ui/egg_compass/menu_bank"},
+        {"predicate": {"custom_model_data": 3}, "model": "chicken_haven:empty"},
+
+        {"predicate": {"custom_model_data": 4}, "model": "syrfewr:lobby/ui/inventory/gray_question"},
+        {"predicate": {"custom_model_data": 5}, "model": "syrfewr:lobby/ui/inventory/green_question"},
+        {"predicate": {"custom_model_data": 6}, "model": "syrfewr:lobby/ui/inventory/blue_question"},
+        {"predicate": {"custom_model_data": 7}, "model": "syrfewr:lobby/ui/inventory/purple_question"},
+        {"predicate": {"custom_model_data": 8}, "model": "syrfewr:lobby/ui/inventory/yellow_question"},
+        {"predicate": {"custom_model_data": 9}, "model": "syrfewr:lobby/ui/inventory/red_question"},
+        
+        {"predicate": {"custom_model_data": 10}, "model": "syrfewr:lobby/ui/inventory/time/night"},
+        {"predicate": {"custom_model_data": 11}, "model": "syrfewr:lobby/ui/inventory/time/morning"},
+        {"predicate": {"custom_model_data": 12}, "model": "syrfewr:lobby/ui/inventory/time/afternoon"},
+        {"predicate": {"custom_model_data": 13}, "model": "syrfewr:lobby/ui/inventory/time/evening"},
+
+        {"predicate": {"custom_model_data": 101}, "model": "syrfewr:lobby/ui/inventory/main_menu"},
+        {"predicate": {"custom_model_data": 102}, "model": "syrfewr:lobby/ui/inventory/my_cosmetics"},
+        {"predicate": {"custom_model_data": 103}, "model": "syrfewr:lobby/ui/inventory/gamemodes"},
+        {"predicate": {"custom_model_data": 104}, "model": "syrfewr:lobby/ui/inventory/my_cosmetics_info"},
+        {"predicate": {"custom_model_data": 105}, "model": "syrfewr:lobby/ui/inventory/more"},
+        {"predicate": {"custom_model_data": 106}, "model": "syrfewr:lobby/ui/inventory/trouvailles"},
+        {"predicate": {"custom_model_data": 107}, "model": "syrfewr:lobby/ui/inventory/lootboxes"},
+        {"predicate": {"custom_model_data": 108}, "model": "syrfewr:lobby/ui/inventory/my_quests"},
+        {"predicate": {"custom_model_data": 109}, "model": "syrfewr:lobby/ui/inventory/more2"},
+        {"predicate": {"custom_model_data": 110}, "model": "syrfewr:lobby/ui/inventory/more3"},
+
+        {"predicate": {"custom_model_data": 201}, "model": "syrfewr:lobby/ui/modes/main"},
+
+        {"predicate": {"custom_model_data": 401}, "model": "syrfewr:ui/towercraft/tower"},
+        {"predicate": {"custom_model_data": 402}, "model": "syrfewr:ui/towercraft/tower_upgrade"},
+        {"predicate": {"custom_model_data": 403}, "model": "syrfewr:ui/towercraft/device"},
+        {"predicate": {"custom_model_data": 404}, "model": "syrfewr:ui/towercraft/no_upgrades"},
+
+        {"predicate": {"custom_model_data": 501}, "model": "glasswar:ui/game/menu"}
+    ]
+}

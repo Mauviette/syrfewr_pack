@@ -1,0 +1,97 @@
+{
+    "model": {
+        "type": "select",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/bow"
+        },
+        "cases": [
+            {
+                "when": "shortbow",
+                "model": {
+                    "type": "model",
+                    "model": "syrfewr:skins/bows/shortbow"
+                }
+            },
+            {
+                "when": "bonebow",
+                "model": {
+                    "type": "model",
+                    "model": "syrfewr:skins/bows/bonebow"
+                }
+            },
+            {
+                "when": "gun",
+                "model": {
+                    "type": "model",
+                    "model": "syrfewr:skins/bows/gun"
+                }
+            },
+            {
+                "when": "angel",
+                "model": {
+                    "type": "model",
+                    "model": "syrfewr:skins/bows/angel"
+                }
+            },
+            {
+                "when": "windbow",
+                "model": {
+                    "type": "model",
+                    "model": "syrfewr:skins/bows/windbow"
+                }
+            },
+            {
+                "when": "floriculture",
+                "model": {
+                    "type": "model",
+                    "model": "syrfewr:skins/bows/floriculture"
+                }
+            },
+            {
+                "when": "bubblebow",
+                "model": {
+                    "type": "model",
+                    "model": "syrfewr:skins/bows/bubblebow"
+                }
+            },
+            {
+                "when": "thirdwing",
+                "model": {
+                    "type": "model",
+                    "model": "syrfewr:skins/bows/thirdwing"
+                }
+            },
+            {
+                "when": "lavenderlight",
+                "model": {
+                    "type": "model",
+                    "model": "syrfewr:skins/bows/lavenderlight"
+                }
+            },
+            {
+                "when": "webbedbow",
+                "model": {
+                    "type": "model",
+                    "model": "syrfewr:skins/bows/webbedbow"
+                }
+            },
+            {
+                "when": "snowblaster",
+                "model": {
+                    "type": "model",
+                    "model": "syrfewr:skins/bows/snowblaster"
+                }
+            },
+            {
+                "when": "scarlet",
+                "model": {
+                    "type": "model",
+                    "model": "syrfewr:skins/bows/scarlet"
+                }
+            }
+        ]
+      }
+    }
+

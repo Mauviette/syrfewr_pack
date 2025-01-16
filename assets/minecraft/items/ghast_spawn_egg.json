@@ -1,0 +1,47 @@
+{
+    "model": {
+        "type": "select",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/book"
+        },
+        "cases": [
+            {
+                "when": "normal_lucky_block",
+                "model": {
+                    "type": "model",
+                    "model": "glasswar:item/lucky_block/normal"
+                }
+            },
+            {
+                "when": "lucky_lucky_block",
+                "model": {
+                    "type": "model",
+                    "model": "glasswar:item/lucky_block/lucky"
+                }
+            },
+            {
+                "when": "unlucky_lucky_block",
+                "model": {
+                    "type": "model",
+                    "model": "glasswar:item/lucky_block/unlucky"
+                }
+            },
+            {
+                "when": "loot_lucky_block",
+                "model": {
+                    "type": "model",
+                    "model": "glasswar:item/lucky_block/loot"
+                }
+            },
+            {
+                "when": "item_generator",
+                "model": {
+                    "type": "model",
+                    "model": "glasswar:item/item_generator"
+                }
+            }
+        ]
+      }
+    }

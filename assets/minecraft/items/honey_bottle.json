@@ -1,0 +1,19 @@
+{
+    "model": {
+        "type": "select",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/honey_bottle"
+        },
+        "cases": [
+            {
+                "when": "mini_milk",
+                "model": {
+                    "type": "model",
+                    "model": "glasswar:item/mini_milk"
+                }
+            }
+        ]
+      }
+    }

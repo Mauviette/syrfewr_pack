@@ -1,0 +1,9 @@
+{
+    "parent": "minecraft:item/template_shulker_box",
+    "textures": {
+        "all": "item/purple_shulker_box"
+	},
+	"overrides": [
+        {"predicate": {"custom_model_data": 1}, "model": "syrfewr:skins/hats/rainbow_lootbox"}
+    ]
+}

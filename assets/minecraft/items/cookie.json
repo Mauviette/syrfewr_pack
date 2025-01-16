@@ -1,0 +1,28 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/cookie"
+  },
+	"overrides": [
+		{ "predicate": { "custom_model_data": 1}, "model": "syrfewr:skins/hats/cookie/silver_cookie" },
+		{ "predicate": { "custom_model_data": 2}, "model": "syrfewr:skins/hats/cookie/golden_cookie" },
+		{ "predicate": { "custom_model_data": 3}, "model": "syrfewr:skins/hats/cookie/lapis_cookie" },
+		{ "predicate": { "custom_model_data": 4}, "model": "syrfewr:skins/hats/cookie/diamond_cookie" },
+		{ "predicate": { "custom_model_data": 5}, "model": "syrfewr:skins/hats/cookie/emerald_cookie" },
+		{ "predicate": { "custom_model_data": 6}, "model": "syrfewr:skins/hats/cookie/rubis_cookie" },
+		{ "predicate": { "custom_model_data": 7}, "model": "syrfewr:skins/hats/cookie/royal_cookie" },
+		{ "predicate": { "custom_model_data": 8}, "model": "syrfewr:skins/hats/cookie/stellar_cookie" },
+		{ "predicate": { "custom_model_data": 9}, "model": "syrfewr:skins/hats/cookie/god_cookie" },
+		{ "predicate": { "custom_model_data": 10}, "model": "syrfewr:skins/hats/cookie/ultimate_cookie" },
+		{ "predicate": { "custom_model_data": 11}, "model": "syrfewr:skins/hats/cookie/amethyst_cookie" },
+		{ "predicate": { "custom_model_data": 12}, "model": "syrfewr:skins/hats/cookie/titane_cookie" },
+		{ "predicate": { "custom_model_data": 13}, "model": "syrfewr:skins/hats/cookie/paladium_cookie" },
+		{ "predicate": { "custom_model_data": 14}, "model": "syrfewr:skins/hats/cookie/endium_cookie" },
+		{ "predicate": { "custom_model_data": 15}, "model": "syrfewr:skins/hats/cookie/binary_cookie" },
+		{ "predicate": { "custom_model_data": 16}, "model": "syrfewr:skins/hats/cookie/cookie_cookie" },
+		{ "predicate": { "custom_model_data": 17}, "model": "syrfewr:skins/hats/cookie/granola_cookie" },
+		{ "predicate": { "custom_model_data": 18}, "model": "syrfewr:skins/hats/cookie/scary_cookie" },
+		{ "predicate": { "custom_model_data": 19}, "model": "syrfewr:skins/hats/cookie/infinite_cookie" },
+		{ "predicate": { "custom_model_data": 20}, "model": "syrfewr:skins/hats/cookie/cat_cookie" }
+  ]
+}
